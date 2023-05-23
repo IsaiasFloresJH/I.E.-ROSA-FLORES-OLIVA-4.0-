@@ -31,7 +31,7 @@ body{
 
   /*pagina index*/
   div.title {
-    margin-top: 45%; /* Ajusta el margen superior según tus necesidades */
+    margin-top: 50%; /* Ajusta el margen superior según tus necesidades */
     font-size: 1em;
   }
   div.noticia1completa, div.noticia2completa {
@@ -60,7 +60,7 @@ body{
   /*¨responsibidad pag matricula*/
 
   body h2.tituloma{
-    margin-top: 38%;
+    margin-top: 42%;
     text-align: center;
   }
   section.txt-1, aside{
@@ -85,7 +85,7 @@ body{
   
   /*responsibidad paf contactenos*/
   body div.pagcontacto{
-    margin-top: 38%;
+    margin-top: 40%;
     display:block;
     max-width: 100%;
     justify-content: center;
@@ -112,7 +112,7 @@ body{
 
    /* Estilos específicos para dispositivos móviles con un ancho máximo de 600px */
    div.todonosotros {
-    margin-top: 40%;
+    margin-top: 42%;
     margin-left: 2%;
     margin-right: 2%;
   }
@@ -139,7 +139,7 @@ body{
 
   /*apartado propuestamatricula*/
   div.Todoproma{
-    margin-top: 40%;
+    margin-top: 42%;
     margin-left: 2%;
     margin-right: 2%;
     display: flex;
